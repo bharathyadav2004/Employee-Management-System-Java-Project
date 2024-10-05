@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Java program is a simple Employee Management System that retrieves and displays employee information based on their employee number (empNo). The program calculates the employee's salary by considering various components such as basic pay, HRA (House Rent Allowance), and deductions (IT).
+This Java program is a Employee Management System that retrieves and displays employee information based on their employee number (empNo). The program calculates the employee's salary by considering various components such as basic pay, HRA (House Rent Allowance), and deductions (IT).
 
 ## Features
 
